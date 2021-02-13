@@ -1,3 +1,7 @@
+<p>
+  <img width="500px" scr="549450.png">
+</p>
+
 - 👋 Hi, I’m @Katsuniya
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
