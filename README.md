@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="500px" scr="549450.png">
+  <img width="1080px" src="549450.png">
 </p>
 
 - 👋 Hi, I’m @Katsuniya
