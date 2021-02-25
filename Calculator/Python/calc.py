@@ -1,2 +1,3 @@
 Operator = chr
 Number_1 = 0
+Number_2 = 0
