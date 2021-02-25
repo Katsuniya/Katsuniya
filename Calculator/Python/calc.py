@@ -19,3 +19,7 @@ class Calculator:
         Number_1 = int(input("Number: "))
         Operator = input("Operator: ")
         Number_2 = int(input("Number: "))
+
+
+        if Operator == "+":
+            TotalVal = Number_1 + Number_2
