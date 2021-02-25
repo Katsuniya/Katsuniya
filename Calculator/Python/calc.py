@@ -29,3 +29,5 @@ class Calculator:
             TotalVal = Number_1 * Number_1
         elif Operator == "/":
             TotalVal = Number_1 / Number_2
+
+        print(f"Total Value: {TotalVal}")
