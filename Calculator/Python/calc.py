@@ -23,3 +23,5 @@ class Calculator:
 
         if Operator == "+":
             TotalVal = Number_1 + Number_2
+        elif Operator == "-":
+            TotalVal = Number_1 + Number_2
