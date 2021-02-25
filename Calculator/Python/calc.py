@@ -14,3 +14,5 @@ class Calculator:
 
     LICENSE : MIT LICENSE
     '''
+    
+    def Calculate():
