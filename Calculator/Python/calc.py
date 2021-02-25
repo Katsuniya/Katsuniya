@@ -16,3 +16,6 @@ class Calculator:
     '''
     
     def Calculate():
+        Number_1 = int(input("Number: "))
+        Operator = input("Operator: ")
+        Number_2 = int(input("Number: "))
