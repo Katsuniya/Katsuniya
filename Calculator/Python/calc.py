@@ -31,3 +31,6 @@ class Calculator:
             TotalVal = Number_1 / Number_2
 
         print(f"Total Value: {TotalVal}")
+        
+     def Addition():
+        Number_1 = int(input("Number: "))
