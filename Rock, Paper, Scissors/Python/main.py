@@ -2,3 +2,4 @@
 from random import choice
 
 choices = ['rock', 'paper'. 'scissors']
+ComputerChoice = choice(choices)
