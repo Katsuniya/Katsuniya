@@ -2,19 +2,11 @@
   <img width="1080px" src="549450.png">
 </p>
 
-# Katsuniya
-1. My Alias Is Known As Katsuniya But My Real Name Is Nana Ntim
-2. I Come From Ghana
-3. I Currently Study In DPS International And In AS Level
-4. The Languages I Program In The Most Are As Follows:
-- Python
-- C#
-- C++
-- HTML
-- CSS
-- Javascript (Not Much lol)
-5. I Plan To Further Into Computer Science For University And See What I can Do
-6. If You Need Help Or Want To Aid Me In Making My Discord Bot, Please Contact
-Me On My Gmail Account - katsuniya@gmail.com, Or Chat With Me On Discord -
-Katsuniya#1715
-7. Hope Our Fates Intertwine Soon Dear Wanderer.
+# Katsuniya | Start Small - Create Wonders
+As a student in of Computer Science currently enrolled in an A level based school, Computer science amazes me. There are so many things I can do and want to do, but don't have the right skills and resources for. That was my view at the beginning, until I joined Github.
+
+There are so many things that should be worth billions being shared by creative programmers right here. I want to create something people will love not for money or fame, but for the fact that the time I put into that project is being utilized by people.
+
+With that, I would like to ask all fellow developers out there to help me create something unbelievable as a team. That's my main aim for github. If you want to and you're relatively okay with a specific programming language such as python, C#, C++ or a web based language such as HTML, CSS and Javascript.
+
+Hope we get in touch and create something "Magical" :)
